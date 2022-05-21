@@ -36,4 +36,7 @@ export const priceFilter = (goods, minValue, maxValue) => {
 ```
 * Work
 * Education
-* Lang
+* ## Languages
+  + English - pre-intermediate; 
+  + Russian - native;
+  + Czech - upper-intermediate.
