@@ -35,7 +35,11 @@ export const priceFilter = (goods, minValue, maxValue) => {
 }
 ```
 * Work
-* Education
+* ## Courses
+  + HTML Academy
+  + Skillbox
+  + Stepik
+  + W3schools
 * ## Languages
   + English - pre-intermediate; 
   + Russian - native;
