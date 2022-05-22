@@ -34,13 +34,15 @@ export const priceFilter = (goods, minValue, maxValue) => {
     });
 }
 ```
-* Work
+* ## Works
+  + [TOXIN](https://github.com/JiriSimonov/TOXIN/tree/Styles) (PUG, SASS, JS)
+  + [O-ZONE](https://github.com/JiriSimonov/O-ZONE) (HTML, CSS, JS)
 * ## Courses
   + HTML Academy
   + Skillbox
   + Stepik
   + W3schools
 * ## Languages
-  + English - pre-intermediate; 
-  + Russian - native;
-  + Czech - upper-intermediate.
+  + English - pre-intermediate
+  + Russian - native
+  + Czech - upper-intermediate
