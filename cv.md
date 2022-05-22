@@ -4,7 +4,8 @@
   + Phone: +79823846916
   + Emal: jirisimonov@gmail.com
   + Discord: Shaperx#1702
-* Info
+* ## About me
+  During my studies at Charles University, an unprecedented desire for knowledge arose in me. I was very interested in how the web is structured and among the many   options for interacting with it I chose the front-end. Now I develop in this direction, accumulating knowledge and honing skills
 * ## Skills
   + ### HTML
     - PUG/JADE
